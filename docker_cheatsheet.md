@@ -2,4 +2,4 @@
 
 List docker deamon configurations:
 
-  docker info
+    docker info
