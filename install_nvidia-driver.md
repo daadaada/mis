@@ -6,4 +6,4 @@
 
 > sudo apt update
 
-> sudo apt install nvidia-381
+> sudo apt install nvidia-396
